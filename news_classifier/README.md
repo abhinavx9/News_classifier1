@@ -240,3 +240,4 @@ PageRank iterations = 30, damping = 0.85
 
 ## Contributors
 - Aashi Srivastava
+- Adhittiyaca Saroj
