@@ -231,6 +231,12 @@ PageRank iterations = 30, damping = 0.85
 → Make sure Flask is running on port 5000
 → Check browser console for CORS errors
 → The frontend works standalone in demo mode without backend
+## Setup Instructions
+
+1. Clone the repository
+2. Install requirements
+3. Run frontend
+4. Run backend
 
 ## Contributors
 - Aashi Srivastava
